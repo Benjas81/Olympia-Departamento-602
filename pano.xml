@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17873" start="node1" appversion="6.1.2">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" width="1500" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-95">
+      <start tilt="-1.46" fov="70" projection="4" pan="89.2"/>
+      <flyin tilt="-90" fov="180" projection="9" pan="80"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="11/11/2024 08:50 p.m." comment="" tags="Depa Muestra|iNTERIOR" latitude="" longitude="" title="Ingreso" copyright="" author="" customnodeid="" description="" nodeid="node1" info="" source="">
+      <mapcoords x_floorplan_percent="61.6667" y="-0.175781" mapid="FloorPlan01" x="1.01624" y_floorplan_percent="16"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" textcolor="0x000000" enabled="1" textalpha="1" borderradius="1" height="20" border="1" wordwrap="1" width="180" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="-19.08" id="Sala" title="Sala" url="{node5}" target="" description="" pan="-279.11" skinid="ht_node"/>
+      <hotspot tilt="-24.26" id="Rcamara 2" title="Recámara 2" url="{node2}" target="" description="" pan="-314.93" skinid="ht_node"/>
+      <hotspot tilt="-11.55" id="Recamara ppal" title="Recámara Ppal" url="{node3}" target="" description="" pan="-260.09" skinid="ht_node"/>
+      <hotspot tilt="-4.41" id="balcon rec ppal" title="Balcón Recamara Ppal" url="{node9}" target="" description="" pan="-278.76" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" hideabout="0" sensitivity="8" invertwheel="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" width="1500" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start tilt="-0.08" fov="70" projection="4" pan="-89.01"/>
+      <flyin tilt="-0.08" fov="70" projection="4" pan="-89.01"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="11/11/2024 08:50 p.m." comment="" tags="Depa Muestra|iNTERIOR" latitude="" longitude="" title="Recámara 2" copyright="" author="" customnodeid="" description="" nodeid="node2" info="" source="">
+      <mapcoords x_floorplan_percent="32.3333" y="-0.263672" mapid="FloorPlan01" x="0.532837" y_floorplan_percent="24"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" textcolor="0x000000" enabled="1" textalpha="1" borderradius="1" height="20" border="1" wordwrap="1" width="180" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="-8.73" id="Ingreso" title="Ingreso" url="{node1}" target="" description="" pan="-188.76" skinid="ht_node"/>
+      <hotspot tilt="-9.63" id="Baño Recamara 02" title="Baño Recámara 02" url="{node8}" target="" description="" pan="-183.51" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" hideabout="0" sensitivity="8" invertwheel="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" width="1500" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start tilt="1.12" fov="70" projection="4" pan="-179.39"/>
+      <flyin tilt="1.12" fov="70" projection="4" pan="-179.39"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="11/11/2024 09:55 p.m." comment="" tags="Depa Muestra|iNTERIOR" latitude="" longitude="" title="Recámara Ppal" copyright="" author="" customnodeid="" description="" nodeid="node3" info="" source="">
+      <mapcoords x_floorplan_percent="77.5" y="-0.648193" mapid="FloorPlan01" x="1.27716" y_floorplan_percent="59"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" textcolor="0x000000" enabled="1" textalpha="1" borderradius="1" height="20" border="1" wordwrap="1" width="180" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="-10.07" id="Sala" title="Sala" url="{node5}" target="" description="" pan="-31.22" skinid="ht_node"/>
+      <hotspot tilt="-11.46" id="Balcon rec ppal" title="Balcón Recamara Ppal" url="{node9}" target="" description="" pan="-263.26" skinid="ht_node"/>
+      <hotspot tilt="-12.98" id="Baño Rec ppal" title="Baño Recámara Ppal" url="{node7}" target="" description="" pan="-113.04" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" hideabout="0" sensitivity="8" invertwheel="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" width="1500" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="0" fov="70" projection="4" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="11/11/2024 08:50 p.m." comment="" tags="Depa Muestra|iNTERIOR" latitude="" longitude="" title="Sala" copyright="" author="" customnodeid="" description="" nodeid="node5" info="" source="">
+      <mapcoords x_floorplan_percent="57.6667" y="-0.661926" mapid="FloorPlan01" x="0.950317" y_floorplan_percent="60.25"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" textcolor="0x000000" enabled="1" textalpha="1" borderradius="1" height="20" border="1" wordwrap="1" width="180" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="-17.93" id="Recamara ppal" title="Recámara Ppal" url="{node3}" target="" description="" pan="-145.04" skinid="ht_node"/>
+      <hotspot tilt="-9.54" id="Ingreso" title="Ingreso" url="{node1}" target="" description="" pan="-96.94" skinid="ht_node"/>
+      <hotspot tilt="-12.79" id="Recamara 2" title="Recámara 2" url="{node2}" target="" description="" pan="-88.9" skinid="ht_node"/>
+      <hotspot tilt="-13.72" id="Cocina" title="Cocina" url="{node6}" target="" description="" pan="-11.66" skinid="ht_node"/>
+      <hotspot tilt="-21.34" id="balcon rec ppal" title="Recámara Ppal" url="{node3}" target="" description="" pan="-274.93" skinid="ht_node"/>
+      <hotspot tilt="-6.84" id="balcon comedor" title="Balcón Comedor" url="{node10}" target="" description="" pan="-346.5" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" hideabout="0" sensitivity="8" invertwheel="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" width="1500" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start tilt="0.76" fov="70" projection="4" pan="-17.59"/>
+      <flyin tilt="0.76" fov="70" projection="4" pan="-17.6"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="11/11/2024 08:50 p.m." comment="" tags="Depa Muestra|iNTERIOR" latitude="" longitude="" title="Comedor" copyright="" author="" customnodeid="" description="" nodeid="node4" info="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" textcolor="0x000000" enabled="1" textalpha="1" borderradius="1" height="20" border="1" wordwrap="1" width="180" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="-9.95" id="Rec Ppal" title="Recámara Ppal" url="{node3}" target="" description="" pan="-164.33" skinid="ht_node"/>
+      <hotspot tilt="-32.25" id="Sala" title="Sala" url="{node5}" target="" description="" pan="-180.6" skinid="ht_node"/>
+      <hotspot tilt="-28.91" id="Cocina" title="Cocina" url="{node6}" target="" description="" pan="-19.21" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" hideabout="0" sensitivity="8" invertwheel="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" width="1500" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start tilt="-2.42" fov="70" projection="4" pan="150.75"/>
+      <flyin tilt="-2.42" fov="70" projection="4" pan="150.75"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="11/11/2024 08:49 p.m." comment="" tags="Depa Muestra|iNTERIOR" latitude="" longitude="" title="Cocina" copyright="" author="" customnodeid="" description="" nodeid="node6" info="" source="">
+      <mapcoords x_floorplan_percent="36.5" y="-0.604248" mapid="FloorPlan01" x="0.601501" y_floorplan_percent="55"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" textcolor="0x000000" enabled="1" textalpha="1" borderradius="1" height="20" border="1" wordwrap="1" width="180" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="-18.73" id="Sala" title="Sala" url="{node5}" target="" description="" pan="-191.23" skinid="ht_node"/>
+      <hotspot tilt="-7.54" id="Recamara ppal" title="Recámara Ppal" url="{node3}" target="" description="" pan="-175.65" skinid="ht_node"/>
+      <hotspot tilt="-7.82" id="balcon rec ppal" title="Balcón Recamara Ppal" url="{node9}" target="" description="" pan="-219.74" skinid="ht_node"/>
+      <hotspot tilt="-14.95" id="balcon comedor" title="Balcón Comedor" url="{node10}" target="" description="" pan="-315.53" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" hideabout="0" sensitivity="8" invertwheel="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" width="1500" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start tilt="-9.43" fov="70" projection="4" pan="134.4"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25/11/2024 07:26 p.m." comment="" tags="Depa Muestra|iNTERIOR" latitude="" longitude="" title="Baño Recámara Ppal" copyright="" author="" customnodeid="" description="" nodeid="node7" info="" source="">
+      <mapcoords x_floorplan_percent="79.8333" y="-0.31311" mapid="FloorPlan01" x="1.31561" y_floorplan_percent="28.5"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" textcolor="0x000000" enabled="1" textalpha="1" borderradius="1" height="20" border="1" wordwrap="1" width="180" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="-15.82" id="rec ppal" title="Recámara Ppal" url="{node3}" target="" description="" pan="-275.65" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" hideabout="0" sensitivity="8" invertwheel="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" width="1500" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25/11/2024 07:25 p.m." comment="" tags="Depa Muestra|iNTERIOR" latitude="" longitude="" title="Baño Recámara 02" copyright="" author="" customnodeid="" description="" nodeid="node8" info="" source="">
+      <mapcoords x_floorplan_percent="48.3333" y="-0.203247" mapid="FloorPlan01" x="0.796509" y_floorplan_percent="18.5"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" textcolor="0x000000" enabled="1" textalpha="1" borderradius="1" height="20" border="1" wordwrap="1" width="180" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="-18.9" id="Recamara 02" title="Recámara 2" url="{node2}" target="" description="" pan="-303.08" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" hideabout="0" sensitivity="8" invertwheel="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" width="1500" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start tilt="-7.99" fov="70" projection="4" pan="24.46"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25/11/2024 07:26 p.m." comment="" tags="Depa Muestra|iNTERIOR" latitude="" longitude="" title="Balcón Recamara Ppal" copyright="" author="" customnodeid="" description="" nodeid="node9" info="" source="">
+      <mapcoords x_floorplan_percent="75.5" y="-0.914612" mapid="FloorPlan01" x="1.2442" y_floorplan_percent="83.25"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" textcolor="0x000000" enabled="1" textalpha="1" borderradius="1" height="20" border="1" wordwrap="1" width="180" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="-22.41" id="rec ppal" title="Recámara Ppal" url="{node3}" target="" description="" pan="-94.4" skinid="ht_node"/>
+      <hotspot tilt="-9.19" id="cocina" title="Cocina" url="{node6}" target="" description="" pan="-7.83" skinid="ht_node"/>
+      <hotspot tilt="-4.77" id="balcon comedor" title="Balcón Comedor" url="{node10}" target="" description="" pan="-0.54" skinid="ht_node"/>
+      <hotspot tilt="-4.21" id="Sala" title="Sala" url="{node5}" target="" description="" pan="-66.93" skinid="ht_node"/>
+      <hotspot tilt="-3.25" id="baño rec ppal" title="Baño Recámara Ppal" url="{node7}" target="" description="" pan="-95.84" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" hideabout="0" sensitivity="8" invertwheel="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" height="1500" width="1500" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start tilt="-16.15" fov="70" projection="4" pan="-0.53"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" fov="120" scaletofit="1" fovstereographic="270" fovfisheye="360" pan="360"/>
+    </view>
+    <userdata datetime="25/11/2024 07:25 p.m." comment="" tags="Depa Muestra|iNTERIOR" latitude="" longitude="" title="Balcón Comedor" copyright="" author="" customnodeid="" description="" nodeid="node10" info="" source="">
+      <mapcoords x_floorplan_percent="16.8333" y="-0.796509" mapid="FloorPlan01" x="0.277405" y_floorplan_percent="72.5"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label backgroundcolor="0xffffff" borderalpha="1" backgroundalpha="1" textcolor="0x000000" enabled="1" textalpha="1" borderradius="1" height="20" border="1" wordwrap="1" width="180" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="-16.77" id="Cocina" title="Cocina" url="{node6}" target="" description="" pan="-138.53" skinid="ht_node"/>
+      <hotspot tilt="-2.93" id="rec ppal" title="Recámara Ppal" url="{node3}" target="" description="" pan="-160.47" skinid="ht_node"/>
+      <hotspot tilt="-9.27" id="sala" title="Sala" url="{node5}" target="" description="" pan="-171.89" skinid="ht_node"/>
+      <hotspot tilt="-10.46" id="balcon rec ppal" title="Balcón Recamara Ppal" url="{node9}" target="" description="" pan="-190.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" softedge="0" type="crossdissolve" enabled="1" zoomspeed="2" zoomout="0" zoomfov="20" zoomin="0" blendcolor="0x000000" blendtime="1"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="1" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedwheel="0" hideabout="0" sensitivity="8" invertwheel="0" invertcontrol="1" rubberband="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" speedwheel="1" contextfullscreen="1"/>
+  </panorama>
+  <masternode>
+    <userdata datetime="" comment="" tags="" latitude="" longitude="" title="" copyright="" author="" customnodeid="" description="" nodeid="master" info="" source=""/>
+  </masternode>
+  <map floorplannorth="0" type="file" id="FloorPlan01" title="" height="400" transparent="1" tileformat="png" bgcolor="rgba(255, 255, 255, 0)" width="600" zoomlevels="3"/>
+</tour>
